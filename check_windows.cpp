@@ -55,8 +55,8 @@ void parse(int index,string str){
 	query[index]=ask;
 	full[index]=str;
 }
-ifstream words("words.md");
-ofstream wrong("wrong2.md");
+ifstream words("words_gb.md");
+ofstream wrong("wrong.md");
 int main(){
 	string nowLine="";
 	int last=0,tot=0;
