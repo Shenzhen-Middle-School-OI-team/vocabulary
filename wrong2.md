@@ -1,30 +1,28 @@
-respective adj.各自的，分别的
-> respectively adv.分别地
+implement v.贯彻，实施 = carry out
+> implementation n.实施
 
-integrate v.（使）融入；（使）成为一体
-> 常与介词 into 连用
-
-adoption n.采纳，采用；领养
-> adopt vt.采取，采用；领养
-
-neglect n./v. 疏忽，忽视；疏于照管
-> neglect to do sth. 疏忽或忘记做某事
-
-stretch v.延伸；伸展
-> stretch 还可以作名词，意思是“伸展，舒展”
-
-twist n.转折，变化 v.旋转；弯曲；曲解
-
-specialize v.专门研究
-> specialize in sth. 专门研究某物
+represent v.代表，象征
+> representation n.代表
 >
-> specialist n.专家
+> representative adj.典型的 n. 代表
 
-availability n.可用性
-> available adj.可用的
-
-collaborate v.协作，合作
-> collaborate on sth 合作某事
+association n.联系
+> association between A and B A 和 B 之间的联系
 >
-> collaborative adj.协作的
+> associate v.联系
+
+forbid vt.禁止，不准（forbade, forbidden）
+> forbid sb. from doing sth. 禁止某人做某事
+
+detail n.细节
+> in detail 详细地
+>
+> detailed adj.详细的
+
+accomplish vt.实现，完成
+> accomplishment n.完成，达到；成就
+>
+> accomplished adj.熟练的，技艺高超的
+>
+> an accomplished painter
 
