@@ -1,671 +1,671 @@
 ## A2
 
-adoption n.é‡‡çº³ï¼Œé‡‡ç”¨ï¼›é¢†å…»
+adoption n.²ÉÄÉ£¬²ÉÓÃ£»ÁìÑø
 
-> adopt vt.é‡‡å–ï¼Œé‡‡ç”¨ï¼›é¢†å…»
+> adopt vt.²ÉÈ¡£¬²ÉÓÃ£»ÁìÑø
 
-efficient adj.æ•ˆçŽ‡é«˜çš„
+efficient adj.Ð§ÂÊ¸ßµÄ
 
-> efficiency n.æ•ˆçŽ‡ï¼Œæ•ˆèƒ½
+> efficiency n.Ð§ÂÊ£¬Ð§ÄÜ
 >
-> effective adj.æœ‰æ•ˆçš„ï¼Œèƒ½äº§ç”Ÿé¢„æœŸæ•ˆæžœçš„
+> effective adj.ÓÐÐ§µÄ£¬ÄÜ²úÉúÔ¤ÆÚÐ§¹ûµÄ
 
-affordable adj.æ”¯ä»˜å¾—èµ·çš„
+affordable adj.Ö§¸¶µÃÆðµÄ
 
-> afford vt.ä¹°å¾—èµ·ï¼Œè´Ÿæ‹…å¾—èµ·ï¼Œèƒ½åš
+> afford vt.ÂòµÃÆð£¬¸ºµ£µÃÆð£¬ÄÜ×ö
 
 ## A3
 
-integrate v.ï¼ˆä½¿ï¼‰èžå…¥ï¼›ï¼ˆä½¿ï¼‰æˆä¸ºä¸€ä½“
+integrate v.£¨Ê¹£©ÈÚÈë£»£¨Ê¹£©³ÉÎªÒ»Ìå
 
-> å¸¸ä¸Žä»‹è¯ into è¿žç”¨
+> ³£Óë½é´Ê into Á¬ÓÃ
 
-glimpse n. åˆæ­¥çš„æ„Ÿå— n.ä¸€çž¥ï¼Œä¸€çœ‹ v.çž¥è§ï¼›å¼€å§‹é¢†æ‚Ÿ
+glimpse n. ³õ²½µÄ¸ÐÊÜ n.Ò»Æ³£¬Ò»¿´ v.Æ³¼û£»¿ªÊ¼ÁìÎò
 
-> get/catch a glimpse of çž¥è§ï¼Œçœ‹è§ã€‚
+> get/catch a glimpse of Æ³¼û£¬¿´¼û¡£
 >
 
-respond vi.ååº”ï¼›å›žåº”
+respond vi.·´Ó¦£»»ØÓ¦
 
-> respond to å¯¹â€¦â€¦ä½œå‡ºå›žåº”
+> respond to ¶Ô¡­¡­×÷³ö»ØÓ¦
 >
-> response n.ååº”ï¼Œå›žåº”ï¼›in response to å›žåº”â€¦â€¦
+> response n.·´Ó¦£¬»ØÓ¦£»in response to »ØÓ¦¡­¡­
 
-transfer v.è½¬ç§»ï¼›è½¬è®© n.è½¬ç§»ï¼›è°ƒåŠ¨
+transfer v.×ªÒÆ£»×ªÈÃ n.×ªÒÆ£»µ÷¶¯
 
 ## A4
 
-regardless of ä¸ç®¡â€¦â€¦ï¼Œæ— è®ºâ€¦â€¦
+regardless of ²»¹Ü¡­¡­£¬ÎÞÂÛ¡­¡­
 
-ideal adj.ç†æƒ³çš„ï¼Œå®Œç¾Žçš„ n.ç†æƒ³ï¼›å®Œç¾Žçš„äººæˆ–äº‹ç‰©
+ideal adj.ÀíÏëµÄ£¬ÍêÃÀµÄ n.ÀíÏë£»ÍêÃÀµÄÈË»òÊÂÎï
 
-> be ideal for å¯¹â€¦â€¦æ˜¯ç†æƒ³çš„
+> be ideal for ¶Ô¡­¡­ÊÇÀíÏëµÄ
 >
 
-flexible adj.çµæ´»çš„ï¼›æ˜“å¼¯æ›²çš„
+flexible adj.Áé»îµÄ£»Ò×ÍäÇúµÄ
 
-> flexibility n.çµæ´»æ€§
+> flexibility n.Áé»îÐÔ
 
-outcome n.ç»“æžœï¼›æˆæžœ
+outcome n.½á¹û£»³É¹û
 
 ## A5
 
-appropriate adj.æ°å½“çš„ï¼Œåˆé€‚çš„
+appropriate adj.Ç¡µ±µÄ£¬ºÏÊÊµÄ
 
-> It is appropriate (for sb.) to do sth. å¯¹æŸäººæ¥è¯´åšæŸäº‹æ˜¯æ°å½“çš„
+> It is appropriate (for sb.) to do sth. ¶ÔÄ³ÈËÀ´Ëµ×öÄ³ÊÂÊÇÇ¡µ±µÄ
 
-availability n.å¯ç”¨æ€§
+availability n.¿ÉÓÃÐÔ
 
-> available adj.å¯ç”¨çš„
+> available adj.¿ÉÓÃµÄ
 
-circumstance n.æƒ…å½¢ï¼Œæƒ…å†µ
+circumstance n.ÇéÐÎ£¬Çé¿ö
 
-> under the circumstances åœ¨è¿™ç§æƒ…å†µä¸‹ï¼Œæ—¢ç„¶å¦‚æ­¤
+> under the circumstances ÔÚÕâÖÖÇé¿öÏÂ£¬¼ÈÈ»Èç´Ë
 >
-> under no circumstances åœ¨ä»»ä½•æƒ…å†µä¸‹éƒ½ä¸ï¼Œæ— è®ºå¦‚ä½•éƒ½ä¸
+> under no circumstances ÔÚÈÎºÎÇé¿öÏÂ¶¼²»£¬ÎÞÂÛÈçºÎ¶¼²»
 
-define v.ç•Œå®šï¼Œæ˜Žç¡® v.ç»™â€¦â€¦ä¸‹å®šä¹‰
+define v.½ç¶¨£¬Ã÷È· v.¸ø¡­¡­ÏÂ¶¨Òå
 
-> define sb./sth. as æŠŠâ€¦â€¦å®šä¹‰ä¸º
+> define sb./sth. as °Ñ¡­¡­¶¨ÒåÎª
 >
-> definition n.å®šä¹‰
+> definition n.¶¨Òå
 
 ## A6
 
-surge n.æ€¥é€Ÿä¸Šå‡ï¼Œé£žæ¶¨ n.æ¿€å¢žï¼Œæ€¥å‰§ä¸Šå‡ï¼ˆä¸€èˆ¬æŽ¥ä»‹è¯ in æˆ– ofï¼‰
+surge n.¼±ËÙÉÏÉý£¬·ÉÕÇ n.¼¤Ôö£¬¼±¾çÉÏÉý£¨Ò»°ã½Ó½é´Ê in »ò of£©
 
-hardship n.å›°å¢ƒ
+hardship n.À§¾³
 
->membership ä¼šå‘˜èµ„æ ¼
+>membership »áÔ±×Ê¸ñ
 >
->leadership é¢†å¯¼èƒ½åŠ›æˆ–åœ°ä½
+>leadership Áìµ¼ÄÜÁ¦»òµØÎ»
 
-solution n.è§£å†³æ–¹æ³•
+solution n.½â¾ö·½·¨
 
-> a solution to sth â€¦â€¦çš„è§£å†³åŠžæ³•
+> a solution to sth ¡­¡­µÄ½â¾ö°ì·¨
 >
-> solve v.è§£å†³
+> solve v.½â¾ö
 
-alternative n.å¯ä¾›é€‰æ‹©çš„äº‹ç‰© adj.å¯ä¾›æ›¿ä»£çš„
+alternative n.¿É¹©Ñ¡ÔñµÄÊÂÎï adj.¿É¹©Ìæ´úµÄ
 
-> alternative energy æ›¿ä»£èƒ½æº
+> alternative energy Ìæ´úÄÜÔ´
 
 ## A7
 
-statistics n.ç»Ÿè®¡ï¼Œç»Ÿè®¡æ•°å­—
+statistics n.Í³¼Æ£¬Í³¼ÆÊý×Ö
 
-> statistical adj.ç»Ÿè®¡çš„ï¼›
+> statistical adj.Í³¼ÆµÄ£»
 >
-> statistics n.ç»Ÿè®¡å­¦
+> statistics n.Í³¼ÆÑ§
 
-issue n.é—®é¢˜ï¼›è®®é¢˜ v.å®£å¸ƒï¼Œå…¬å¸ƒ
+issue n.ÎÊÌâ£»ÒéÌâ v.Ðû²¼£¬¹«²¼
 
-consultation n.å’¨è¯¢
+consultation n.×ÉÑ¯
 
-> consult v.å’¨è¯¢ï¼›
+> consult v.×ÉÑ¯£»
 >
-> consultant n.é¡¾é—®
+> consultant n.¹ËÎÊ
 
-collaborate v.åä½œï¼Œåˆä½œ
+collaborate v.Ð­×÷£¬ºÏ×÷
 
-> collaborate on sth åˆä½œæŸäº‹
+> collaborate on sth ºÏ×÷Ä³ÊÂ
 >
-> collaborative adj.åä½œçš„
+> collaborative adj.Ð­×÷µÄ
 
 ## A8
 
-stream v.ç½‘ç»œæ’­æ”¾ n.æµï¼Œæ°´æµï¼Œæ°”æµ
+stream v.ÍøÂç²¥·Å n.Á÷£¬Ë®Á÷£¬ÆøÁ÷
 
-> a stream of ä¸€è¿žä¸²çš„
+> a stream of Ò»Á¬´®µÄ
 
-twist n.è½¬æŠ˜ï¼Œå˜åŒ– v.æ—‹è½¬ï¼›å¼¯æ›²ï¼›æ›²è§£
+twist n.×ªÕÛ£¬±ä»¯ v.Ðý×ª£»ÍäÇú£»Çú½â
 
-survival n.ç”Ÿå­˜ï¼ˆä¸å¯æ•°ï¼‰
+survival n.Éú´æ£¨²»¿ÉÊý£©
 
-> survival skills ç”Ÿå­˜æŠ€å·§
+> survival skills Éú´æ¼¼ÇÉ
 >
-> survive v.ç”Ÿè¿˜ï¼Œå¹¸å­˜
+> survive v.Éú»¹£¬ÐÒ´æ
 >
-> survivor n.å¹¸å­˜è€…
+> survivor n.ÐÒ´æÕß
 
-profound adj.æ·±è¿œçš„
+profound adj.ÉîÔ¶µÄ
 
-> profoundly adv.æ·±è¿œåœ°
+> profoundly adv.ÉîÔ¶µØ
 
 ## A9
 
-reality n.çŽ°å®ž
+reality n.ÏÖÊµ
 
 > in reality = actually/in fact
 
-estimate v.ä¼°ç®— n.ä¼°è®¡ï¼Œè¡¡é‡
+estimate v.¹ÀËã n.¹À¼Æ£¬ºâÁ¿
 
 > make/form an estimate of sth.
 
-shrink v.ï¼ˆä½¿ï¼‰ç¼©å°ï¼›ï¼ˆshrank, shrunkï¼‰
+shrink v.£¨Ê¹£©ËõÐ¡£»£¨shrank, shrunk£©
 
-> shrink from é€ƒé¿åšæŸäº‹
+> shrink from ÌÓ±Ü×öÄ³ÊÂ
 
-feedback n.åé¦ˆï¼ˆä¸å¯æ•°åè¯ï¼‰
+feedback n.·´À¡£¨²»¿ÉÊýÃû´Ê£©
 
 ## A10
 
-digest vt.ç†è§£ï¼Œå¸æ”¶ï¼ˆä¿¡æ¯ï¼‰vt.ï¼ˆä½¿ï¼‰æ¶ˆåŒ– n.æ–‡æ‘˜ï¼Œæ‘˜è¦
+digest vt.Àí½â£¬ÎüÊÕ£¨ÐÅÏ¢£©vt.£¨Ê¹£©Ïû»¯ n.ÎÄÕª£¬ÕªÒª
 
-> Readers' Digestã€Šè¯»è€…æ–‡æ‘˜ã€‹
+> Readers' Digest¡¶¶ÁÕßÎÄÕª¡·
 
-engage with sb./sth.ï¼ˆä¸Žâ€¦â€¦ï¼‰å»ºç«‹å¯†åˆ‡å…³ç³»ï¼ŒæŽ¥è§¦
+engage with sb./sth.£¨Óë¡­¡­£©½¨Á¢ÃÜÇÐ¹ØÏµ£¬½Ó´¥
 
-> engage ä½œåŠ¨è¯è¿˜å¯ä»¥è¡¨ç¤ºâ€œå¸å¼•ä½ï¼Œä½¿æ„Ÿå…´è¶£ï¼›ä½¿å¿™äºŽï¼Œä½¿å‚åŠ â€
+> engage ×÷¶¯´Ê»¹¿ÉÒÔ±íÊ¾¡°ÎüÒý×¡£¬Ê¹¸ÐÐËÈ¤£»Ê¹Ã¦ÓÚ£¬Ê¹²Î¼Ó¡±
 >
-> engage in sth å‚ä¸ŽæŸäº‹
+> engage in sth ²ÎÓëÄ³ÊÂ
 
-identity n.ç‰¹æ€§ï¼Œèº«ä»½
+identity n.ÌØÐÔ£¬Éí·Ý
 
-> identity card èº«ä»½è¯ï¼›
+> identity card Éí·ÝÖ¤£»
 >
-> cultural identity æ–‡åŒ–è®¤åŒï¼›
+> cultural identity ÎÄ»¯ÈÏÍ¬£»
 >
-> national identity å›½å®¶/æ°‘æ—è®¤åŒæ„Ÿ
+> national identity ¹ú¼Ò/Ãñ×åÈÏÍ¬¸Ð
 
 ## A11
 
-pursuit n.è¿½æ±‚ï¼Œå¯»æ±‚ï¼Œè¿½èµ¶
+pursuit n.×·Çó£¬Ñ°Çó£¬×·¸Ï
 
-> in pursuit of è¿½æ±‚æŸç‰©
+> in pursuit of ×·ÇóÄ³Îï
 >
-> pursue vt.è¿½æ±‚ï¼Œè¿½èµ¶ï¼›ä»Žäº‹
+> pursue vt.×·Çó£¬×·¸Ï£»´ÓÊÂ
 
-spring vi.èµ·æºï¼ˆsprang, sprungï¼‰v.è·³ï¼Œè·ƒï¼Œè¹¦ n.æ˜¥å¤©ï¼›å¼¹ç°§ï¼›æ³‰
+spring vi.ÆðÔ´£¨sprang, sprung£©v.Ìø£¬Ô¾£¬±Ä n.´ºÌì£»µ¯»É£»Èª
 
-span vt.æŒç»­ï¼Œè´¯ç©¿ï¼›n.è·¨åº¦ï¼ŒèŒƒå›´
+span vt.³ÖÐø£¬¹á´©£»n.¿ç¶È£¬·¶Î§
 
 ## A12
 
-classic adj.ç»å…¸çš„ï¼›å¤å…¸çš„ n.åè‘—ï¼›ç»å…¸è‘—ä½œ
+classic adj.¾­µäµÄ£»¹ÅµäµÄ n.ÃûÖø£»¾­µäÖø×÷
 
-associate adj.å‰¯çš„ï¼›å‡†çš„ v.è”æƒ³ï¼Œè”ç³»
+associate adj.¸±µÄ£»×¼µÄ v.ÁªÏë£¬ÁªÏµ
 
-> associate A with B æŠŠ A å’Œ B è”ç³»åœ¨ä¸€èµ·ï¼›
+> associate A with B °Ñ A ºÍ B ÁªÏµÔÚÒ»Æð£»
 >
-> be associated with å’Œâ€¦â€¦è”ç³»åœ¨ä¸€èµ·
+> be associated with ºÍ¡­¡­ÁªÏµÔÚÒ»Æð
 
-prevail v.èŽ·èƒœï¼›å ä¸Šé£Ž
+prevail v.»ñÊ¤£»Õ¼ÉÏ·ç
 
-> prevail against/over æˆ˜èƒœâ€¦â€¦
+> prevail against/over Õ½Ê¤¡­¡­
 
 ## A13
 
-contrast v.ä½¿å¯¹ç…§ï¼›ä½¿å¯¹æ¯”  n.å¯¹æ¯”ï¼Œå¯¹ç…§
+contrast v.Ê¹¶ÔÕÕ£»Ê¹¶Ô±È  n.¶Ô±È£¬¶ÔÕÕ
 
-> contrast A with B å°† A ä¸Ž B åšå¯¹æ¯”ï¼›
+> contrast A with B ½« A Óë B ×ö¶Ô±È£»
 
-symbolize v.è±¡å¾
+symbolize v.ÏóÕ÷
 
-> symbol n.ç¬¦å·ï¼Œè±¡å¾ï¼›
+> symbol n.·ûºÅ£¬ÏóÕ÷£»
 >
-> symbolic adj.è±¡å¾çš„ï¼Œç¬¦å·çš„
+> symbolic adj.ÏóÕ÷µÄ£¬·ûºÅµÄ
 
-convince v.è¯´æœï¼Œä½¿ä¿¡æœ
+convince v.Ëµ·þ£¬Ê¹ÐÅ·þ
 
-> convince sb. of sth. ä½¿æŸäººç›¸ä¿¡æŸäº‹
+> convince sb. of sth. Ê¹Ä³ÈËÏàÐÅÄ³ÊÂ
 
-participate v.å‚ä¸Žï¼Œå‚åŠ 
+participate v.²ÎÓë£¬²Î¼Ó
 
-> participate in sth å‚åŠ æŸäº‹
+> participate in sth ²Î¼ÓÄ³ÊÂ
 >
-> participant n.å‚ä¸Žè€…
+> participant n.²ÎÓëÕß
 
 ## A14
 
-envy n.ç¾¡æ…•ï¼›å«‰å¦’
+envy n.ÏÛÄ½£»¼µ¶Ê
 
-> be the envy of sb. æˆä¸ºæŸäººç¾¡æ…•çš„å¯¹è±¡ï¼›
+> be the envy of sb. ³ÉÎªÄ³ÈËÏÛÄ½µÄ¶ÔÏó£»
 >
-> envy ä¹Ÿå¯ä»¥åšåŠ¨è¯
+> envy Ò²¿ÉÒÔ×ö¶¯´Ê
 >
-> envious adj.å«‰å¦’çš„
+> envious adj.¼µ¶ÊµÄ
 
-extensive adj.å¤§é‡çš„ï¼›å¹¿æ³›çš„
+extensive adj.´óÁ¿µÄ£»¹ã·ºµÄ
 
-> extend v.å»¶ä¼¸ï¼›æ‰©å¤§
+> extend v.ÑÓÉì£»À©´ó
 
-specialize v.ä¸“é—¨ç ”ç©¶
+specialize v.×¨ÃÅÑÐ¾¿
 
-> specialize in sth. ä¸“é—¨ç ”ç©¶æŸç‰©
+> specialize in sth. ×¨ÃÅÑÐ¾¿Ä³Îï
 >
-> specialist n.ä¸“å®¶
+> specialist n.×¨¼Ò
 
-award n.å¥–é¡¹
+award n.½±Ïî
 
-> win a award for sth. å› æŸäº‹ç‰©èŽ·å¥–ï¼›
+> win a award for sth. ÒòÄ³ÊÂÎï»ñ½±£»
 >
-> award ä½œåŠ¨è¯ï¼Œæ„ä¸ºâ€œæŽˆäºˆï¼Œå¥–åŠ±â€
+> award ×÷¶¯´Ê£¬ÒâÎª¡°ÊÚÓè£¬½±Àø¡±
 
 ## A15
 
-detail n.ç»†èŠ‚
+detail n.Ï¸½Ú
 
-> in detail è¯¦ç»†åœ°
+> in detail ÏêÏ¸µØ
 >
-> detailed adj.è¯¦ç»†çš„
+> detailed adj.ÏêÏ¸µÄ
 
-model v.æ¨¡ä»¿ n.æ¨¡åž‹ï¼Œå…¸åž‹
+model v.Ä£·Â n.Ä£ÐÍ£¬µäÐÍ
 
-> model sb. on/after æ¨¡ä»¿â€¦â€¦ï¼›
+> model sb. on/after Ä£·Â¡­¡­£»
 
-recommend v.æŽ¨è
+recommend v.ÍÆ¼ö
 
-> recommend sth. to sb. å‘æŸäººæŽ¨èæŸç‰©ï¼›
+> recommend sth. to sb. ÏòÄ³ÈËÍÆ¼öÄ³Îï£»
 >
-> recommend doing sth. å»ºè®®åšæŸäº‹
+> recommend doing sth. ½¨Òé×öÄ³ÊÂ
 
-compose v.å†™ä½œï¼›ä½œæ›² v.æž„æˆ
+compose v.Ð´×÷£»×÷Çú v.¹¹³É
 
-> be composed of ç”±â€¦â€¦ç»„æˆ
+> be composed of ÓÉ¡­¡­×é³É
 
 ## A16
 
-concept n.æ¦‚å¿µï¼Œè§‚å¿µ
+concept n.¸ÅÄî£¬¹ÛÄî
 
-vehicle n.ï¼ˆè¡¨è¾¾æ€æƒ³ç­‰çš„ï¼‰æ‰‹æ®µï¼Œå·¥å…·
+vehicle n.£¨±í´ïË¼ÏëµÈµÄ£©ÊÖ¶Î£¬¹¤¾ß
 
-> a vehicle for sth â€¦â€¦çš„å·¥å…·æˆ–æ‰‹æ®µ
+> a vehicle for sth ¡­¡­µÄ¹¤¾ß»òÊÖ¶Î
 >
-> vehicle è¿˜å¯ä»¥è¡¨ç¤ºâ€œäº¤é€šå·¥å…·ï¼Œè½¦è¾†â€ï¼Œå¦‚ electric vehicles ç”µåŠ¨è½¦ï¼Œmonitor vehicles æœºåŠ¨è½¦è¾†ã€‚
+> vehicle »¹¿ÉÒÔ±íÊ¾¡°½»Í¨¹¤¾ß£¬³µÁ¾¡±£¬Èç electric vehicles µç¶¯³µ£¬monitor vehicles »ú¶¯³µÁ¾¡£
 
-conviction n.åšå®šçš„çœ‹æ³•æˆ–ä¿¡å¿µ
+conviction n.¼á¶¨µÄ¿´·¨»òÐÅÄî
 
-> convict v.è¯æ˜Žâ€¦â€¦æœ‰ç½ª
+> convict v.Ö¤Ã÷¡­¡­ÓÐ×ï
 
-emerge v.å‡ºçŽ°ï¼Œæ˜¾çŽ°ï¼Œéœ²å‡º
+emerge v.³öÏÖ£¬ÏÔÏÖ£¬Â¶³ö
 
-> emerge from ä»Žâ€¦â€¦å‡ºçŽ°
+> emerge from ´Ó¡­¡­³öÏÖ
 >
-> emerging adj.æ–°å…´çš„ï¼›emergence n.å‡ºçŽ°ï¼Œæµ®çŽ°ï¼›emergent adj.æµ®çŽ°çš„ï¼Œç´§æ€¥çš„
+> emerging adj.ÐÂÐËµÄ£»emergence n.³öÏÖ£¬¸¡ÏÖ£»emergent adj.¸¡ÏÖµÄ£¬½ô¼±µÄ
 
 ## A17
 
-typical adj.å…¸åž‹çš„ï¼Œæœ‰ä»£è¡¨æ€§çš„
+typical adj.µäÐÍµÄ£¬ÓÐ´ú±íÐÔµÄ
 
-> be typical of ä»£è¡¨ï¼Œè±¡å¾â€¦â€¦
+> be typical of ´ú±í£¬ÏóÕ÷¡­¡­
 
-seek v.å¯»æ‰¾ï¼Œå¯»æ±‚ï¼ˆsought, soughtï¼‰
+seek v.Ñ°ÕÒ£¬Ñ°Çó£¨sought, sought£©
 
-> seek to do sth. åŠ›å›¾åšæŸäº‹
+> seek to do sth. Á¦Í¼×öÄ³ÊÂ
 >
-> seek advice å¾æ±‚æ„è§
+> seek advice Õ÷ÇóÒâ¼û
 
-serve v.ï¼ˆç»™æŸäººï¼‰æä¾›ï¼Œç«¯ä¸Š v.æŽ¥å¾…ï¼ŒæœåŠ¡
+serve v.£¨¸øÄ³ÈË£©Ìá¹©£¬¶ËÉÏ v.½Ó´ý£¬·þÎñ
 
-> serve as è¡¨ç¤ºâ€œå……å½“â€¦â€¦â€ã€‚
+> serve as ±íÊ¾¡°³äµ±¡­¡­¡±¡£
 >
-> service n.æœåŠ¡
+> service n.·þÎñ
 
-raise v.æŠšå…»ï¼Œå…»è‚²ï¼ŒåŸ¹å…» v.æå‡ºï¼›æå‡
+raise v.¸§Ñø£¬ÑøÓý£¬ÅàÑø v.Ìá³ö£»ÌáÉý
 
-> raise a question æå‡ºé—®é¢˜ï¼›raise salaries æé«˜è–ªæ°´
+> raise a question Ìá³öÎÊÌâ£»raise salaries Ìá¸ßÐ½Ë®
 
 ## A18
 
-stretch v.å»¶ä¼¸ï¼›ä¼¸å±•
+stretch v.ÑÓÉì£»ÉìÕ¹
 
-> stretch è¿˜å¯ä»¥ä½œåè¯ï¼Œæ„æ€æ˜¯â€œä¼¸å±•ï¼Œèˆ’å±•â€
+> stretch »¹¿ÉÒÔ×÷Ãû´Ê£¬ÒâË¼ÊÇ¡°ÉìÕ¹£¬ÊæÕ¹¡±
 
-insightful adj.æœ‰æ´žå¯ŸåŠ›çš„
+insightful adj.ÓÐ¶´²ìÁ¦µÄ
 
-> insight n.æ´žå¯ŸåŠ›
+> insight n.¶´²ìÁ¦
 
-reputation n.åå£°ï¼Œåèª‰
+reputation n.ÃûÉù£¬ÃûÓþ
 
-> have a reputation for ä»¥â€¦â€¦é—»åï¼›
+> have a reputation for ÒÔ¡­¡­ÎÅÃû£»
 >
-> earn/gain/establish a reputation as sth. èµ¢å¾—æˆ–æ ‘ç«‹â€¦â€¦çš„åå£°
+> earn/gain/establish a reputation as sth. Ó®µÃ»òÊ÷Á¢¡­¡­µÄÃûÉù
 
-qualification n.ï¼ˆèŽ·å¾—çš„ï¼‰å­¦ä½ï¼Œæ–‡å‡­
+qualification n.£¨»ñµÃµÄ£©Ñ§Î»£¬ÎÄÆ¾
 
-> qualify v.å–å¾—èµ„æ ¼ï¼›
+> qualify v.È¡µÃ×Ê¸ñ£»
 >
-> qualified adj.æœ‰èµ„æ ¼çš„
+> qualified adj.ÓÐ×Ê¸ñµÄ
 
 ## A19
 
-perceive vt.æ„ŸçŸ¥ï¼Œç†è§£
+perceive vt.¸ÐÖª£¬Àí½â
 
-> perceive â€¦ as/to be â€¦ æŠŠâ€¦â€¦çœ‹æˆâ€¦â€¦
+> perceive ¡­ as/to be ¡­ °Ñ¡­¡­¿´³É¡­¡­
 >
-> perception n.çŸ¥è§‰
+> perception n.Öª¾õ
 
-respective adj.å„è‡ªçš„ï¼Œåˆ†åˆ«çš„
+respective adj.¸÷×ÔµÄ£¬·Ö±ðµÄ
 
-> respectively adv.åˆ†åˆ«åœ°
+> respectively adv.·Ö±ðµØ
 
-combat n.æˆ˜æ–—ï¼Œææ–—
+combat n.Õ½¶·£¬²«¶·
 
-> combat ç”¨ä½œåŠ¨è¯ï¼Œè¡¨ç¤ºâ€œä¸Žâ€¦â€¦æˆ˜æ–—â€
+> combat ÓÃ×÷¶¯´Ê£¬±íÊ¾¡°Óë¡­¡­Õ½¶·¡±
 
-visual adj.è§†è§‰çš„
+visual adj.ÊÓ¾õµÄ
 
-> vision n.è§†åŠ›
+> vision n.ÊÓÁ¦
 
 ## A20
 
-endure vt.å¿è€ï¼Œå¿å—ï¼›æŒç»­
+endure vt.ÈÌÄÍ£¬ÈÌÊÜ£»³ÖÐø
 
-> endurable adj.å¯å¿å—çš„
+> endurable adj.¿ÉÈÌÊÜµÄ
 
-highlight vt.çªå‡ºï¼›å¼ºè°ƒï¼›ä½¿æ³¨æ„ n.æœ€ç²¾å½©çš„éƒ¨åˆ†
+highlight vt.Í»³ö£»Ç¿µ÷£»Ê¹×¢Òâ n.×î¾«²ÊµÄ²¿·Ö
 
-massive adj.å·¨å¤§çš„ï¼Œä¸¥é‡çš„
+massive adj.¾Þ´óµÄ£¬ÑÏÖØµÄ
 
-suspicion n.çŒœç–‘ï¼Œæ€€ç–‘
+suspicion n.²ÂÒÉ£¬»³ÒÉ
 
-> have a suspicion about sth/have a suspicion + that ä»Žå¥ï¼šå¯¹æŸäº‹è¡¨ç¤ºæ€€ç–‘
+> have a suspicion about sth/have a suspicion + that ´Ó¾ä£º¶ÔÄ³ÊÂ±íÊ¾»³ÒÉ
 >
-> suspicious adj.å¯ç–‘çš„ï¼›æ€€ç–‘çš„ï¼ˆbe suspicious of/about å¯¹â€¦â€¦è¡¨ç¤ºæ€€ç–‘ï¼‰
+> suspicious adj.¿ÉÒÉµÄ£»»³ÒÉµÄ£¨be suspicious of/about ¶Ô¡­¡­±íÊ¾»³ÒÉ£©
 
 ## A21
 
-assign v.åˆ†æ´¾ï¼Œå¸ƒç½®ï¼ˆå·¥ä½œï¼Œä»»åŠ¡ç­‰ï¼‰
+assign v.·ÖÅÉ£¬²¼ÖÃ£¨¹¤×÷£¬ÈÎÎñµÈ£©
 
-> assign sb. to do sth. æŒ‡æ´¾æŸäººåšæŸäº‹ï¼›
+> assign sb. to do sth. Ö¸ÅÉÄ³ÈË×öÄ³ÊÂ£»
 >
-> assign sb. sth./assign sth. to sb. åˆ†é…ç»™æŸäººæŸç‰©
+> assign sb. sth./assign sth. to sb. ·ÖÅä¸øÄ³ÈËÄ³Îï
 >
-> assignment n.ä½œä¸šï¼Œä»»åŠ¡
+> assignment n.×÷Òµ£¬ÈÎÎñ
 
-account n.å™è¿°ï¼Œæè¿° n.è´¦æˆ·
+account n.ÐðÊö£¬ÃèÊö n.ÕË»§
 
-> open an account å¼€ç«‹è´¦æˆ·
+> open an account ¿ªÁ¢ÕË»§
 
-insight n.è§è¯†ï¼Œæ´žå¯ŸåŠ›
+insight n.¼ûÊ¶£¬¶´²ìÁ¦
 
 > have/gain/get an insight into
 
 ## A22
 
-alongside prep.æ²¿ç€ adv.åœ¨æ—è¾¹
+alongside prep.ÑØ×Å adv.ÔÚÅÔ±ß
 
-sacrifice v.ç‰ºç‰²
+sacrifice v.ÎþÉü
 
-> make sacrifice to ä¸ºâ€¦â€¦åšå‡ºç‰ºç‰²
+> make sacrifice to Îª¡­¡­×ö³öÎþÉü
 
-ultimate adj.æœ€é‡è¦çš„ï¼Œæ ¹æœ¬çš„
+ultimate adj.×îÖØÒªµÄ£¬¸ù±¾µÄ
 
-> the ultimate challenge ç»ˆæžæŒ‘æˆ˜
+> the ultimate challenge ÖÕ¼«ÌôÕ½
 
-diagnose v.è¯Šæ–­
+diagnose v.Õï¶Ï
 
-> be diagnosed with sth. è¢«è¯Šæ–­å‡ºæ‚£â€¦â€¦
+> be diagnosed with sth. ±»Õï¶Ï³ö»¼¡­¡­
 
 ## A23
 
-alter v.æ”¹å˜
+alter v.¸Ä±ä
 
-> alternation n.æ”¹å˜
+> alternation n.¸Ä±ä
 
-inhabit vt.å±…ä½äºŽï¼Œæ –æ¯
+inhabit vt.¾Ó×¡ÓÚ£¬ÆÜÏ¢
 
-> inhabitant n.å±…æ°‘
+> inhabitant n.¾ÓÃñ
 
-immerse vt.æ²‰æµ¸ï¼›ä½¿é™·å…¥
+immerse vt.³Á½þ£»Ê¹ÏÝÈë
 
-> immerse oneself in sth. ä¸“æ³¨äºŽæŸäº‹
+> immerse oneself in sth. ×¨×¢ÓÚÄ³ÊÂ
 >
-> immersion n.æµ¸æ²¡ï¼Œä¸“å¿ƒ
+> immersion n.½þÃ»£¬×¨ÐÄ
 
-appreciation n.æ„Ÿè°¢
+appreciation n.¸ÐÐ»
 
-> show/express one's appreciation for sth. è¡¨è¾¾å¯¹æŸäº‹çš„æ„Ÿæ¿€
+> show/express one's appreciation for sth. ±í´ï¶ÔÄ³ÊÂµÄ¸Ð¼¤
 >
-> appreciate v.æ„Ÿè°¢
+> appreciate v.¸ÐÐ»
 
 ## A24
 
-isolated adj.åè¿œçš„ï¼Œååƒ»çš„ adj.å­¤ç«‹çš„ï¼Œåˆ†ç¦»çš„ï¼›ä¸ªåˆ«çš„
+isolated adj.Æ«Ô¶µÄ£¬Æ«Æ§µÄ adj.¹ÂÁ¢µÄ£¬·ÖÀëµÄ£»¸ö±ðµÄ
 
-> be isolated from sth. ä¸ŽæŸäº‹ç‰©éš”ç¦»å¼€æ¥
+> be isolated from sth. ÓëÄ³ÊÂÎï¸ôÀë¿ªÀ´
 
-tough adj.å›°éš¾çš„ adj.å¼ºå£®çš„ï¼Œç²—æš´çš„
+tough adj.À§ÄÑµÄ adj.Ç¿×³µÄ£¬´Ö±©µÄ
 
-distinctive adj.ç‰¹æ®Šçš„ï¼Œæœ‰ç‰¹è‰²çš„
+distinctive adj.ÌØÊâµÄ£¬ÓÐÌØÉ«µÄ
 
-> distinct adj.æ˜Žæ˜¾çš„ï¼›ç‹¬ç‰¹çš„ï¼›
+> distinct adj.Ã÷ÏÔµÄ£»¶ÀÌØµÄ£»
 >
-> distinction n.åŒºåˆ«ï¼›å·®åˆ«
+> distinction n.Çø±ð£»²î±ð
 
-representative adj.å…¸åž‹çš„ï¼Œæœ‰ä»£è¡¨æ€§çš„ n.ä»£è¡¨
+representative adj.µäÐÍµÄ£¬ÓÐ´ú±íÐÔµÄ n.´ú±í
 
-> be representative of ä»£è¡¨â€¦â€¦çš„
+> be representative of ´ú±í¡­¡­µÄ
 
 ## A25
 
-capable adj.æœ‰èƒ½åŠ›çš„
+capable adj.ÓÐÄÜÁ¦µÄ
 
-> be capable of sth./doing sth. æœ‰èƒ½åŠ›åšæŸäº‹
+> be capable of sth./doing sth. ÓÐÄÜÁ¦×öÄ³ÊÂ
 >
-> capability n.èƒ½åŠ›
+> capability n.ÄÜÁ¦
 
-settle v.è§£å†³ï¼ˆåˆ†æ­§ã€çº çº·ç­‰ï¼‰
+settle v.½â¾ö£¨·ÖÆç¡¢¾À·×µÈ£©
 
-> settlement n.è§£å†³ï¼Œå¤„ç†
+> settlement n.½â¾ö£¬´¦Àí
 
-significance n.æ„ä¹‰ï¼Œé‡è¦æ€§
+significance n.ÒâÒå£¬ÖØÒªÐÔ
 
-> significant adj.é‡è¦çš„ï¼Œé‡å¤§çš„
+> significant adj.ÖØÒªµÄ£¬ÖØ´óµÄ
 
-resolve v.è§£å†³ï¼ˆé—®é¢˜æˆ–å›°éš¾ï¼‰n.å†³å®šï¼Œå†³å¿ƒï¼ˆæŽ¥ onï¼‰
+resolve v.½â¾ö£¨ÎÊÌâ»òÀ§ÄÑ£©n.¾ö¶¨£¬¾öÐÄ£¨½Ó on£©
 
 ## A26
 
-strengthen v.åŠ å¼ºï¼Œå·©å›º
+strengthen v.¼ÓÇ¿£¬¹®¹Ì
 
 > shorten, darken, broaden, weaken
 >
-> strong adj.å¼ºå£®çš„
+> strong adj.Ç¿×³µÄ
 >
-> strength n.åŠ›æ°”
+> strength n.Á¦Æø
 
-implement v.è´¯å½»ï¼Œå®žæ–½ = carry out
+implement v.¹á³¹£¬ÊµÊ© = carry out
 
-> implementation n.å®žæ–½
+> implementation n.ÊµÊ©
 
-facilitate v.ä¿ƒè¿› = promote
+facilitate v.´Ù½ø = promote
 
 ## A27
 
-resident n.å±…æ°‘
+resident n.¾ÓÃñ
 
-> reside v.å±…ä½åœ¨ï¼Œå®šå±…äºŽ
+> reside v.¾Ó×¡ÔÚ£¬¶¨¾ÓÓÚ
 >
-> residence n.ä½å®…ï¼Œä½å¤„
+> residence n.×¡Õ¬£¬×¡´¦
 
-rely v.ä¾é 
+rely v.ÒÀ¿¿
 
 > rely on/upon sb./sth.
 
-mission n.ä»»åŠ¡
+mission n.ÈÎÎñ
 
-> on a mission åœ¨æ‰§è¡ŒæŸé¡¹ä»»åŠ¡
+> on a mission ÔÚÖ´ÐÐÄ³ÏîÈÎÎñ
 >
-> a rescue mission æ•‘æ´ä»»åŠ¡
+> a rescue mission ¾ÈÔ®ÈÎÎñ
 
-accustom v.ä½¿ä¹ æƒ¯äºŽ
+accustom v.Ê¹Ï°¹ßÓÚ
 
-> be/become/get accustomed to ä¹ æƒ¯äºŽ
+> be/become/get accustomed to Ï°¹ßÓÚ
 
 ## B1
 
-emphasize vt.å¼ºè°ƒï¼Œç€é‡
+emphasize vt.Ç¿µ÷£¬×ÅÖØ
 
-> emphasis n.é‡ç‚¹ï¼Œå¼ºè°ƒ
+> emphasis n.ÖØµã£¬Ç¿µ÷
 >
-> put/place emphasis on sth. å¼ºè°ƒæŸäº‹
+> put/place emphasis on sth. Ç¿µ÷Ä³ÊÂ
 
-critical adj.æ‰¹è¯„çš„ï¼Œæ‰¹åˆ¤çš„ï¼›æŒ‘å‰”çš„ adj.æžé‡è¦çš„ï¼Œå…³é”®çš„ï¼›ï¼ˆå±€åŠ¿ã€ç—…æƒ…ï¼‰ä¸¥é‡çš„ï¼Œå±æ€¥çš„
+critical adj.ÅúÆÀµÄ£¬ÅúÅÐµÄ£»ÌôÌÞµÄ adj.¼«ÖØÒªµÄ£¬¹Ø¼üµÄ£»£¨¾ÖÊÆ¡¢²¡Çé£©ÑÏÖØµÄ£¬Î£¼±µÄ
 
 > be critical of sb./sth.
 >
-> criticize v.æ‰¹è¯„
+> criticize v.ÅúÆÀ
 
-accomplish vt.å®žçŽ°ï¼Œå®Œæˆ
+accomplish vt.ÊµÏÖ£¬Íê³É
 
-> accomplishment n.å®Œæˆï¼Œè¾¾åˆ°ï¼›æˆå°±
+> accomplishment n.Íê³É£¬´ïµ½£»³É¾Í
 >
-> accomplished adj.ç†Ÿç»ƒçš„ï¼ŒæŠ€è‰ºé«˜è¶…çš„
+> accomplished adj.ÊìÁ·µÄ£¬¼¼ÒÕ¸ß³¬µÄ
 >
 > an accomplished painter
 
 ## B2
 
-abuse n.è™å¾…ï¼Œæ»¥ç”¨ v.è™å¾…ï¼Œä¼¤å®³ï¼›æ»¥ç”¨
+abuse n.Å°´ý£¬ÀÄÓÃ v.Å°´ý£¬ÉËº¦£»ÀÄÓÃ
 
-neglect n./v. ç–å¿½ï¼Œå¿½è§†ï¼›ç–äºŽç…§ç®¡
+neglect n./v. Êèºö£¬ºöÊÓ£»ÊèÓÚÕÕ¹Ü
 
-> neglect to do sth. ç–å¿½æˆ–å¿˜è®°åšæŸäº‹
+> neglect to do sth. Êèºö»òÍü¼Ç×öÄ³ÊÂ
 
-determine vt.ç¡®å®šï¼ŒæŸ¥æ˜Žï¼›å†³å®š
+determine vt.È·¶¨£¬²éÃ÷£»¾ö¶¨
 
-> determine to do sth. å†³å¿ƒåšæŸäº‹
+> determine to do sth. ¾öÐÄ×öÄ³ÊÂ
 >
-> determination n.å†³å¿ƒ
+> determination n.¾öÐÄ
 >
-> determined adj.ä¸‹å®šå†³å¿ƒçš„ï¼Œåšå†³çš„
+> determined adj.ÏÂ¶¨¾öÐÄµÄ£¬¼á¾öµÄ
 
-incidence n.å‘ç”ŸçŽ‡ï¼›å½±å“ç¨‹åº¦
+incidence n.·¢ÉúÂÊ£»Ó°Ïì³Ì¶È
 
 ## B3
 
-conflict n.å†²çªï¼ŒçŸ›ç›¾
+conflict n.³åÍ»£¬Ã¬¶Ü
 
-> conflict over sth. å¯¹æŸäº‹çš„äº‰æ‰§
+> conflict over sth. ¶ÔÄ³ÊÂµÄÕùÖ´
 >
-> conflict between A and B A ä¸Ž B ä¹‹é—´çš„å†²çª
+> conflict between A and B A Óë B Ö®¼äµÄ³åÍ»
 
-regulation n.è§„åˆ™ï¼Œç« ç¨‹
+regulation n.¹æÔò£¬ÕÂ³Ì
 
-> safety regulation å®‰å…¨è§„åˆ™
+> safety regulation °²È«¹æÔò
 >
-> traffic regulation äº¤é€šè§„åˆ™
+> traffic regulation ½»Í¨¹æÔò
 
-expose v.ä½¿æŽ¥è§¦ï¼Œä½¿ä½“éªŒ
+expose v.Ê¹½Ó´¥£¬Ê¹ÌåÑé
 
-> expose sb. to sth. è®©æŸäººæœ‰æœºä¼šæŽ¥è§¦â€¦â€¦
+> expose sb. to sth. ÈÃÄ³ÈËÓÐ»ú»á½Ó´¥¡­¡­
 >
-> exposure n.æš´éœ²
+> exposure n.±©Â¶
 
-organic adj.æœ‰æœºçš„ï¼Œç»¿è‰²çš„
+organic adj.ÓÐ»úµÄ£¬ÂÌÉ«µÄ
 
-> organic cheese æœ‰æœºå¥¶é…ª
+> organic cheese ÓÐ»úÄÌÀÒ
 >
-> organic vegetables æœ‰æœºè”¬èœ
+> organic vegetables ÓÐ»úÊß²Ë
 
 ## B4
 
-crucial adj.é‡è¦çš„
+crucial adj.ÖØÒªµÄ
 
-> be crucial to å¯¹â€¦â€¦æ¥è¯´è‡³å…³é‡è¦
+> be crucial to ¶Ô¡­¡­À´ËµÖÁ¹ØÖØÒª
 
-factor n.å› ç´ ï¼Œè¦ç´ 
+factor n.ÒòËØ£¬ÒªËØ
 
-approach n.æ–¹æ³•ï¼Œé€”å¾„ v.å¤„ç†ï¼ŒæŽ¥è¿‘
+approach n.·½·¨£¬Í¾¾¶ v.´¦Àí£¬½Ó½ü
 
-> an approach to sth. åšæŸäº‹çš„æ–¹æ³•æˆ–é€”å¾„
+> an approach to sth. ×öÄ³ÊÂµÄ·½·¨»òÍ¾¾¶
 
-association n.è”ç³»
+association n.ÁªÏµ
 
-> association between A and B A å’Œ B ä¹‹é—´çš„è”ç³»
+> association between A and B A ºÍ B Ö®¼äµÄÁªÏµ
 >
-> associate v.è”ç³»
+> associate v.ÁªÏµ
 
 ## B5
 
-access n.ä½¿ç”¨æƒ
+access n.Ê¹ÓÃÈ¨
 
-> è¡¨ç¤ºâ€œæŽ¥è¿‘æƒï¼Œäº«ç”¨æƒï¼Œå‡ºå…¥æƒâ€ç­‰ï¼Œå¸¸ä¸Žä»‹è¯ to æ­é…
+> ±íÊ¾¡°½Ó½üÈ¨£¬ÏíÓÃÈ¨£¬³öÈëÈ¨¡±µÈ£¬³£Óë½é´Ê to ´îÅä
 
-embrace v.æ¬£ç„¶æŽ¥å—ï¼›æ‹¥æŠ±
+embrace v.ÐÀÈ»½ÓÊÜ£»Óµ±§
 
-> embrace uncertainty æŽ¥å—ä¸ç¡®å®šæ€§
+> embrace uncertainty ½ÓÊÜ²»È·¶¨ÐÔ
 >
-> embrace the child æ‹¥æŠ±é‚£ä¸ªå­©å­
+> embrace the child Óµ±§ÄÇ¸öº¢×Ó
 
-barrier n.éšœç¢
+barrier n.ÕÏ°­
 
-> language barrier è¯­è¨€éšœç¢
+> language barrier ÓïÑÔÕÏ°­
 >
-> a barrier to sth./doing sth. åšæŸäº‹çš„éšœç¢
+> a barrier to sth./doing sth. ×öÄ³ÊÂµÄÕÏ°­
 >
-> break a barrier çªç ´éšœç¢
+> break a barrier Í»ÆÆÕÏ°­
 >
-> barrier-free adj.æ— éšœç¢çš„
+> barrier-free adj.ÎÞÕÏ°­µÄ
 >
-> barrier-free facilities æ— éšœç¢è®¾æ–½
+> barrier-free facilities ÎÞÕÏ°­ÉèÊ©
 
 ## B6
 
-on hold æš‚åœï¼Œä¸­æ–­
+on hold ÔÝÍ££¬ÖÐ¶Ï
 
-feature v.ä»¥â€¦â€¦ä¸ºç‰¹è‰² n.ç‰¹ç‚¹ï¼Œç‰¹å¾
+feature v.ÒÔ¡­¡­ÎªÌØÉ« n.ÌØµã£¬ÌØÕ÷
 
-> main features ä¸»è¦ç‰¹å¾ 
+> main features Ö÷ÒªÌØÕ÷ 
 
-innovation n.åˆ›æ–°ï¼Œé©æ–°
+innovation n.´´ÐÂ£¬¸ïÐÂ
 
-> technological innovation æŠ€æœ¯é©æ–°
+> technological innovation ¼¼Êõ¸ïÐÂ
 >
-> innovate v.åˆ›æ–°
+> innovate v.´´ÐÂ
 >
-> innovative adj.åˆ›æ–°çš„
+> innovative adj.´´ÐÂµÄ
 
-represent v.ä»£è¡¨ï¼Œè±¡å¾
+represent v.´ú±í£¬ÏóÕ÷
 
-> representation n.ä»£è¡¨
+> representation n.´ú±í
 >
-> representative adj.å…¸åž‹çš„ n. ä»£è¡¨
+> representative adj.µäÐÍµÄ n. ´ú±í
 
 ## B7
 
-impact n.å½±å“ v.å½±å“
+impact n.Ó°Ïì v.Ó°Ïì
 
-> have/make an impact on sb./sth. å¯¹â€¦â€¦æœ‰å½±å“
+> have/make an impact on sb./sth. ¶Ô¡­¡­ÓÐÓ°Ïì
 
-exposure n.æš´éœ²
+exposure n.±©Â¶
 
-> exposure to sth. é¢ä¸´ï¼Œé­å—ï¼ˆå±é™©æˆ–ä¸å¿«ï¼‰
+> exposure to sth. ÃæÁÙ£¬ÔâÊÜ£¨Î£ÏÕ»ò²»¿ì£©
 >
-> expose v.æš´éœ²ï¼Œæ­éœ²
+> expose v.±©Â¶£¬½ÒÂ¶
 
-controversy n.äº‰è®®ï¼Œäº‰è®º
+controversy n.ÕùÒé£¬ÕùÂÛ
 
-> create/spark/cause controversy å¼•èµ·äº‰è®®
+> create/spark/cause controversy ÒýÆðÕùÒé
 >
-> controversial n.å¼•èµ·äº‰è®ºçš„ï¼Œæœ‰äº‰è®®çš„
+> controversial n.ÒýÆðÕùÂÛµÄ£¬ÓÐÕùÒéµÄ
 
-connected adj.æœ‰è”ç³»çš„
+connected adj.ÓÐÁªÏµµÄ
 
-> connect v.è¿žæŽ¥ï¼Œè”ç³»
+> connect v.Á¬½Ó£¬ÁªÏµ
 
 ## B8
 
-forbid vt.ç¦æ­¢ï¼Œä¸å‡†ï¼ˆforbade, forbiddenï¼‰
+forbid vt.½ûÖ¹£¬²»×¼£¨forbade, forbidden£©
 
-> forbid sb. from doing sth. ç¦æ­¢æŸäººåšæŸäº‹
+> forbid sb. from doing sth. ½ûÖ¹Ä³ÈË×öÄ³ÊÂ
 
-disapproval n.ä¸èµžæˆï¼Œåå¯¹
+disapproval n.²»ÔÞ³É£¬·´¶Ô
 
-> disapproval of sth. å¯¹æŸäº‹çš„ä¸èµžæˆ
+> disapproval of sth. ¶ÔÄ³ÊÂµÄ²»ÔÞ³É
 >
-> disapprove v.ä¸èµžæˆï¼›ä¸åŒæ„
+> disapprove v.²»ÔÞ³É£»²»Í¬Òâ
 >
-> approve v.èµžæˆï¼ŒåŒæ„
+> approve v.ÔÞ³É£¬Í¬Òâ
 
-compassionate adj.æœ‰åŒæƒ…å¿ƒçš„
+compassionate adj.ÓÐÍ¬ÇéÐÄµÄ
 
-> on compassionate grounds å‡ºäºŽåŒæƒ…
+> on compassionate grounds ³öÓÚÍ¬Çé
 >
-> compassion n.åŒæƒ…
+> compassion n.Í¬Çé
 
-round the clock æ—¥å¤œä¸åœ
+round the clock ÈÕÒ¹²»Í£
 
 > around the clock

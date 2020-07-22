@@ -26,6 +26,7 @@ int type(string str){
 	else return 2;
 }
 string explaination[MAXN],query[MAXN],answer[MAXN],full[MAXN];
+int order[MAXN];
 void Notice(string note){
 	cout<<note<<endl;
 }
@@ -50,7 +51,7 @@ void parse(int index,string str){
 	full[index]=str;
 }
 ifstream words("words.md");
-ofstream wrong("wrong.md");
+ofstream wrong("wrong2.md");
 int main(){
 	string nowLine="";
 	int last=0,tot=0;
@@ -61,22 +62,27 @@ int main(){
 		if (t==1) explaination[last]+=nowLine+"\n";
 		if (t==2) last=++tot,parse(tot,nowLine);
 	}
+	printf("Read %d words\n",tot);
 	cerr<<"Read is ok.\nPlease input the full word.\nInput QUIT to quit.\nPress enter to continue."<<endl;
 	getchar();
 	system("cls");
 	srand(time(NULL));
 	while (true){
-		int index=rand()%tot+1;
-		Notice(query[index]);
-		string user_in;
-		cin>>user_in;
-		if (user_in=="QUIT") break;
-		if (user_in==answer[index]) Notice("Correct!\n");
-		else Notice("Wrong!\n"),Notice(answer[index]),wrong<<full[index]<<endl,wrong<<explaination[index]<<endl;
-		Notice(explaination[index]);
-		getchar();
-		getchar();
-		system("cls");
+		for (int i=1;i<=tot;++i) order[i]=i;
+		random_shuffle(order+1,order+1+tot);
+		for (int i=1;i<=tot;++i){
+			int index=order[i];
+			Notice(query[index]);
+			string user_in;
+			cin>>user_in;
+			if (user_in=="QUIT") break;
+			if (user_in==answer[index]) Notice("Correct!\n");
+			else Notice("Wrong!\n"),Notice(answer[index]),wrong<<full[index]<<endl,wrong<<explaination[index]<<endl;
+			Notice(explaination[index]);
+			getchar();
+			getchar();
+			system("cls");
+		}
 	}
 	return 0;
 }
