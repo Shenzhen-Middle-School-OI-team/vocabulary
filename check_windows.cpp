@@ -1,9 +1,4 @@
-#include <iostream>
-#include <cstdio>
-#include <algorithm>
-#include <vector>
-#include <cstring>
-#include <fstream>
+#include <bits/stdc++.h>
 #define MAXN 1000005
 using namespace std;
 inline int read(){
