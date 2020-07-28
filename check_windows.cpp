@@ -33,7 +33,6 @@ int type(string str){
 }
 bool isAlphabet(char c){
 	if (c=='\'') return true;
-	if (c=='¡­') return true;
 	if (c=='(') return true;
 	if (c==')') return true;
 	return ('a'<=c&&c<='z')||('A'<=c&&c<='Z');
@@ -85,7 +84,7 @@ void parse(int index,string str){
 	_query[index]=ask;
 	_full[index]=str;
 }
-ifstream words("Ó¢Óï±ØĞŞÒ»µ½±ØĞŞÊ®Ò»_gb.md");
+ifstream words("è‹±è¯­å¿…ä¿®ä¸€åˆ°å¿…ä¿®åä¸€_gb.md");
 ofstream wrong("wrong.md");
 string title[MAXN];
 int totTitle;
