@@ -40,7 +40,6 @@ int type(string str){
 }
 bool isAlphabet(char c){
 	if (c=='\'') return true;
-	if (c=='…') return true;
 	if (c=='(') return true;
 	if (c==')') return true;
 	return ('a'<=c&&c<='z')||('A'<=c&&c<='Z');
