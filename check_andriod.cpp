@@ -91,7 +91,7 @@ void parse(int index,string str){
 	_query[index]=ask;
 	_full[index]=str;
 }
-ifstream words("英语必修一到必修十一_gb.md");
+ifstream words("yy.md");
 ofstream wrong("wrong.md");
 string title[MAXN];
 int totTitle;
