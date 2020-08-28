@@ -14,7 +14,7 @@ ignore vt. 不理睬；忽视
 
 calm vt. & vi. （使）平静；（使）镇定 adj. 平静的；镇静的；沉着的
 
-calm (…) down （使）平静下来；（使）镇定下来
+calm ... down （使）平静下来；（使）镇定下来
 
 have got to 不得不；必须
 
@@ -42,7 +42,7 @@ spellbind vt. 迷住；迷惑
 
 on purpose 故意
 
-in order to  为了……
+in order to 为了……
 
 dusk n. 黄昏；傍晚
 
@@ -62,7 +62,7 @@ curtain n. 窗帘；门帘；幕布
 
 dusty adj. 积满灰尘的
 
-no longer / not … any longer 不再……
+no longer/not ... any longer 不再……
 
 partner n. 伙伴；合作者；合伙人
 
@@ -153,7 +153,7 @@ enrich vt. 使富裕；充实；改善
 
 vocabulary n. 词汇；词汇量；词表
 
-make use of … 利用；使用
+make use of ... 利用；使用
 
 spelling n. 拼写；拼法
 
@@ -257,13 +257,13 @@ determine vt. 决定；确定；下定决心
 
 determined adj. 坚决的；有决心的
 
-change one’s mind 改变主意
+change one's mind 改变主意
 
 journey n. 旅行；旅程
 
 altitude n. 海拔高度；高处
 
-make up one’s mind 下决心；决定
+make up one's mind 下决心；决定
 
 give in 投降；屈服；让步
 
@@ -548,8 +548,6 @@ sentence vt. 判决；宣判
 
 be sentenced to 被判处……（徒刑）
 
-anti- [前缀] 反；抗；阻
-
 anti-black adj. 反黑人的
 
 president n. 总统；会长；校长；行长
@@ -702,7 +700,7 @@ athletics n. (pl) 体育运动；竞技
 
 stadium n. （露天大型）体育场
 
-gymnasium (gym) n. 体育馆；健身房
+gymnasium n. 体育馆；健身房
 
 as well 也；又；还
 
@@ -798,7 +796,7 @@ solve vt. 解决；解答
 
 mathematical adj. 数学的
 
-from … on 从……时起
+from ... on 从……时起
 
 reality n. 真实；事实；现实
 
@@ -1240,9 +1238,9 @@ parking lot 停车场
 
 turn up 出现；到场
 
-keep one’s word 守信用；履行诺言
+keep one's word 守信用；履行诺言
 
-hold one’s breath 屏息；屏气
+hold one's breath 屏息；屏气
 
 apologize vi. 道歉；辩白
 
@@ -1268,7 +1266,7 @@ set off 出发；动身；使爆炸
 
 remind vt. 提醒；使想起
 
-remind … of … 使……想起……
+remind ... of ... 使……想起……
 
 forgive  vt. 原谅；饶恕
 
@@ -1354,7 +1352,7 @@ customer n. 顾客；消费者
 
 discount n. 折扣
 
-win … back 赢回；重新获得
+win ... back 赢回；重新获得
 
 weakness n. 缺点；虚弱；弱点
 
@@ -1380,7 +1378,7 @@ vitamin n. 维生素
 
 protein n. 蛋白质
 
-earn one’s living 谋生
+earn one's living 谋生
 
 debt n. 债；债务
 
@@ -1610,7 +1608,7 @@ give birth to 产生；分娩
 
 thus adv. 因此；于是
 
-in one’s turn 轮到某人；接着
+in one's turn 轮到某人；接着
 
 dioxide n. 二氧化物
 
@@ -1640,7 +1638,7 @@ extinct adj. 灭绝的；绝种的
 
 climate n. 气候
 
-comet n. 慧星
+comet n. 彗星
 
 crash vi. & vt. 碰撞；坠落
 
@@ -1704,13 +1702,9 @@ chat vi. & n. 聊天；闲聊
 
 scenery n. 景色；风景
 
-eastward adv. 向东
+eastward adv. 向东 adj. 向东的；朝东的
 
-adj. 向东的；朝东的
-
-westward adv. 向西
-
-adj. 向西的；朝西的
+westward adv. 向西 adj. 向西的；朝西的
 
 upward adv. 向上地；上升的 adj. 上升的；向上的
 
@@ -1866,7 +1860,7 @@ argument n. 争论；争辩；争吵
 
 entertainment n. 款待；娱乐；娱乐表演
 
-lead a … life 过着……的生活
+lead a ... life 过着……的生活
 
 crowd n. 人群；观众 vt. 挤满；使拥挤
 
@@ -1952,7 +1946,7 @@ battle n. 战役；战斗；较量；斗争 vt. & vi. 搏斗；奋斗
 
 rid vt. 摆脱；除去
 
-rid … of 摆脱；除去
+rid ... of 摆脱；除去
 
 be satisfied with 对……感到满意
 
@@ -2256,7 +2250,7 @@ anger n. 怒气；怒火
 
 lose face 丢脸
 
-turn one’s back to 背对；背弃
+turn one's back to 背对；背弃
 
 fist n. 拳头
 
@@ -2290,7 +2284,7 @@ whichever pron. 无论哪一个；任何一个
 
 pirate n. 海盗；盗版
 
-fairy tale  神话故事；童话
+fairy tale 神话故事；童话
 
 fantasy n. 幻想；怪念头
 
@@ -2366,7 +2360,7 @@ outing n. 外出；短途旅行；远足
 
 admission n. 允许进入；入场费；承认
 
-shuttle  n. 往返汽车；航天飞机
+shuttle n. 往返汽车；航天飞机
 
 freeway n. 高速公路
 
@@ -2542,7 +2536,7 @@ union n. 联合；联盟；结合；协会
 
 credit n. 信任；学分；赞扬；信贷
 
-to one’s credit 为……带来荣誉；值得赞扬；在……名下
+to one's credit 为……带来荣誉；值得赞扬；在……名下
 
 currency n. 货币；通货
 
@@ -2684,7 +2678,7 @@ adjustment n. 调整；调节
 
 mask n. 面具；面罩；伪装
 
-be back on one’s feet （困境后）恢复；完全复原
+be back on one's feet （困境后）恢复；完全复原
 
 hover vi. 盘旋
 
@@ -3046,7 +3040,7 @@ stab vt. & vi. 刺；戳；刺伤
 
 a number of 若干；许多
 
-put one’s hands on 找到
+put one's hands on 找到
 
 treat vt. & vi. 治疗；对待；款待 n. 款待；招待
 
@@ -3710,7 +3704,7 @@ helmet n. 头盔
 
 boot n. 靴子
 
-make one’s way 前往
+make one's way 前往
 
 potential n. 潜在性；可能性；潜能 adj. 可能的；潜在的
 
@@ -4056,7 +4050,7 @@ transfusion n. 输血
 
 part-time adj. 兼职的
 
-master’s degree 硕士学位
+master's degree 硕士学位
 
 staff n. 全体员工；手杖
 
@@ -4434,7 +4428,7 @@ videophone n. 可视电话
 
 bachelor n. 获学士学位的人；未婚男子
 
-bachelor’s degree 学士学位
+bachelor's degree 学士学位
 
 routine n. 常规；日常事务 adj. 通常的；例行的
 
@@ -4736,7 +4730,7 @@ popularity n. 受人喜爱；流行
 
 strike vi. & vt. 打；撞击；罢工 n. 罢工
 
-strike … into one’s heart 使……刻骨铭心
+strike … into one's heart 使……刻骨铭心
 
 calf n. 小牛；牛犊
 
@@ -5014,7 +5008,7 @@ ambassador n. 大使；使节
 
 acquaintance n. 相识；了解；熟人
 
-make one’s acquaintance 结识；与……相见
+make one's acquaintance 结识；与……相见
 
 handful n. 一把；少量
 
@@ -6510,11 +6504,11 @@ at length 最后；详细地
 
 enquire vt. 询问
 
-against one’s will 违心地
+against one's will 违心地
 
 think ill of 对……评价不高
 
-do everything in one’s power to … 竭尽全力做某事
+do everything in one's power to … 竭尽全力做某事
 
 rejoice vi. 欣喜；高兴；喜悦
 
@@ -6738,7 +6732,7 @@ flame n. 火焰
 
 greengrocer n. 蔬菜水果商
 
-greengrocer’s 蔬菜水果商店
+greengrocer's 蔬菜水果商店
 
 alley n. 小巷，胡同
 
@@ -6834,7 +6828,7 @@ withdraw vi. & vt. 收回；撤回；
 
 sake n. 目的；利益
 
-for one’s own sake  为了……的缘故
+for one's own sake  为了……的缘故
 
 pursuit n. 寻求；追求
 
@@ -6898,7 +6892,7 @@ whistle n. 口哨；哨子
 
 heel n. 脚后跟；踵
 
-a wolf in sheep’s clothing 披着羊皮的狼；伪装友好的敌人
+a wolf in sheep's clothing 披着羊皮的狼；伪装友好的敌人
 
 pint n. 品脱（=0.5夸脱；英制液量0.568升；美制液量0.473升）
 
